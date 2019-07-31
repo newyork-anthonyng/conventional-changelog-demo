@@ -1,3 +1,12 @@
+# [3.7.0](https://github.com/newyork-anthonyng/conventional-changelog-demo/compare/v3.0.0...v3.7.0) (2019-07-31)
+
+
+### Bug Fixes
+
+* **third:** add 3.js ([7818e18](https://github.com/newyork-anthonyng/conventional-changelog-demo/commit/7818e18))
+
+
+
 # [3.0.0](https://github.com/newyork-anthonyng/conventional-changelog-demo/compare/v2.0.0...v3.0.0) (2019-07-31)
 
 
