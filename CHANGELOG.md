@@ -1,3 +1,12 @@
+# [5.0.0](https://github.com/newyork-anthonyng/conventional-changelog-demo/compare/v3.7.0...v5.0.0) (2019-07-31)
+
+
+### Features
+
+* **fourth:** add 5.js ([32f8f54](https://github.com/newyork-anthonyng/conventional-changelog-demo/commit/32f8f54))
+
+
+
 # [4.0.0](https://github.com/newyork-anthonyng/conventional-changelog-demo/compare/v3.7.0...v4.0.0) (2019-07-31)
 
 
